@@ -1154,6 +1154,7 @@ section {
   transition: all ease-in-out 0.4s;
   background: var(--color-white);
   height: 100%;
+  box-shadow: 2px 2px 4px rgba(103, 103, 103, 0.4);
 }
 
 .featured-services .service-item .icon {
